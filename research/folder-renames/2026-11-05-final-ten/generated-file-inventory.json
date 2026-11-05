@@ -1,0 +1,48 @@
+{
+  "tracked_status": "Unknown: no root Git index; nothing removed",
+  "counts": {
+    ".venv": 1399,
+    "__pycache__": 38,
+    "runtime_diagnostics": 126,
+    "other_caches": 0
+  },
+  "examples": {
+    ".venv": [
+      ".venv/.gitignore",
+      ".venv/Include/site/python3.14/greenlet/greenlet.h",
+      ".venv/Lib/site-packages/greenlet-3.5.6.dist-info/INSTALLER",
+      ".venv/Lib/site-packages/greenlet-3.5.6.dist-info/METADATA",
+      ".venv/Lib/site-packages/greenlet-3.5.6.dist-info/RECORD",
+      ".venv/Lib/site-packages/greenlet-3.5.6.dist-info/WHEEL",
+      ".venv/Lib/site-packages/greenlet-3.5.6.dist-info/licenses/LICENSE",
+      ".venv/Lib/site-packages/greenlet-3.5.6.dist-info/licenses/LICENSE.PSF",
+      ".venv/Lib/site-packages/greenlet-3.5.6.dist-info/top_level.txt",
+      ".venv/Lib/site-packages/greenlet/CObjects.cpp"
+    ],
+    "__pycache__": [
+      "projects/01-number-guessing/__pycache__/guessing.cpython-314.pyc",
+      "projects/01-number-guessing/__pycache__/gui.cpython-314.pyc",
+      "projects/01-number-guessing/tests/__pycache__/test_guessing.cpython-314-pytest-9.1.1.pyc",
+      "projects/01-number-guessing/tests/__pycache__/test_guessing.cpython-314.pyc",
+      "projects/02-rock-paper-scissors/__pycache__/gui.cpython-314.pyc",
+      "projects/02-rock-paper-scissors/__pycache__/rps.cpython-314.pyc",
+      "projects/02-rock-paper-scissors/tests/__pycache__/test_rps.cpython-314-pytest-9.1.1.pyc",
+      "projects/02-rock-paper-scissors/tests/__pycache__/test_rps.cpython-314.pyc",
+      "projects/03-password-generator/__pycache__/gui.cpython-314.pyc",
+      "projects/03-password-generator/__pycache__/passwords.cpython-314.pyc"
+    ],
+    "runtime_diagnostics": [
+      "research/folder-renames/2026-11-05-final-ten/before/research/runtime-checks/README.md",
+      "research/folder-renames/2026-11-05-final-ten/before/research/verification/dashboard-server.log",
+      "research/folder-renames/2026-11-05-final-ten/before/research/verification/tests-01-number-guessing.log",
+      "research/folder-renames/2026-11-05-final-ten/before/research/verification/tests-02-rock-paper-scissors.log",
+      "research/folder-renames/2026-11-05-final-ten/before/research/verification/tests-03-password-generator.log",
+      "research/folder-renames/2026-11-05-final-ten/before/research/verification/tests-07-smart-file-organizer.log",
+      "research/folder-renames/2026-11-05-final-ten/before/research/verification/tests-09-qr-code-studio.log",
+      "research/folder-renames/2026-11-05-final-ten/before/research/verification/tests-11-expense-tracker.log",
+      "research/folder-renames/2026-11-05-final-ten/before/research/verification/tests-16-maze-solving-visualizer.log",
+      "research/folder-renames/2026-11-05-final-ten/runtime-outputs/launch/01-number-guessing-cli-help.log"
+    ],
+    "other_caches": []
+  }
+}

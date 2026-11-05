@@ -1,0 +1,14 @@
+test_duplicate_name_and_round_trip (test_organizer.OrganizerTests.test_duplicate_name_and_round_trip) ... ok
+test_failed_move_leaves_input_and_journal (test_organizer.OrganizerTests.test_failed_move_leaves_input_and_journal) ... ok
+test_pending_move_can_be_recovered (test_organizer.OrganizerTests.test_pending_move_can_be_recovered) ... ok
+test_preview_does_not_change_anything (test_organizer.OrganizerTests.test_preview_does_not_change_anything) ... ok
+test_reject_stale_plan (test_organizer.OrganizerTests.test_reject_stale_plan) ... ok
+test_skip_directories_and_hidden_files (test_organizer.OrganizerTests.test_skip_directories_and_hidden_files) ... ok
+test_tampered_manifest_cannot_escape_root (test_organizer.OrganizerTests.test_tampered_manifest_cannot_escape_root) ... ok
+test_undo_refuses_changed_content (test_organizer.OrganizerTests.test_undo_refuses_changed_content) ... ok
+test_undo_refuses_overwrite (test_organizer.OrganizerTests.test_undo_refuses_overwrite) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.149s
+
+OK

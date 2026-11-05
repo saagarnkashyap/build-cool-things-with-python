@@ -1,0 +1,15 @@
+{
+  "git_repository": false,
+  "git_moves": "Unavailable: workspace and parents have no Git metadata",
+  "tracked_generated_files": "Cannot determine without an index",
+  "referencing_files": 18,
+  "references_by_category": {
+    "configuration": 2,
+    "README": 8,
+    "documentation/records": 5,
+    "scripts": 3
+  },
+  "protected_assets": 42,
+  "project_source_files": 43,
+  "protected_license_files": 2
+}

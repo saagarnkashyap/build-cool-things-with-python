@@ -1,0 +1,26 @@
+Actual output from a temporary synthetic folder. Paths abbreviated for readability.
+
+ORGANIZE | DRY RUN (no changes)
+  lesson.py -> Code/lesson.py
+  picture.png -> Images/picture.png
+  report.txt -> Documents/report (2).txt
+3 file(s).
+
+ORGANIZE | APPLY
+  lesson.py -> Code/lesson.py
+  picture.png -> Images/picture.png
+  report.txt -> Documents/report (2).txt
+3 file(s).
+Undo manifest: <practice-folder>\.organizer\manifests\8b0e93621d2a4a3bba996da687e71955.json
+
+UNDO | DRY RUN (no changes)
+  Code/lesson.py -> lesson.py
+  Images/picture.png -> picture.png
+  Documents/report (2).txt -> report.txt
+3 file(s).
+
+UNDO | APPLY
+  Code/lesson.py -> lesson.py
+  Images/picture.png -> picture.png
+  Documents/report (2).txt -> report.txt
+3 file(s).

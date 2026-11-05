@@ -1,0 +1,100 @@
+{
+  "collection": "Visual Art Lab",
+  "recorded_on": "2026-11-05",
+  "snapshot_type": "Unmodified source files; no Git history or author metadata imported.",
+  "sources": [
+    {
+      "local_path": "projects/visual-art-lab/bloomcraft",
+      "source_url": "https://github.com/iremcnar/Flowers",
+      "branch": "main",
+      "commit": "1900a387103e38cf2e9b14262f16e95b3df05fec",
+      "tree": "1684fd3430fcb09501a1e26086fa3f9e9b6d8404",
+      "archive_url": "https://codeload.github.com/iremcnar/Flowers/zip/1900a387103e38cf2e9b14262f16e95b3df05fec",
+      "archive_sha256": "e0e5f1b2cfd10ad5b5f05684232b748fa8730ac8e29a81c07c8b912d25314ec3",
+      "files": [
+        {
+          "path": ".gitattributes",
+          "size_bytes": 66,
+          "sha256": "1a1dbe176bc233b499d35a57db7513f2941c99ab9759f177830c9149be99005b"
+        },
+        {
+          "path": "README.md",
+          "size_bytes": 1359,
+          "sha256": "c36912e2a485e4046dd5e903594ab7aede74a595927546a0f8d1b6b37acf0d96"
+        },
+        {
+          "path": "flow.py",
+          "size_bytes": 23930,
+          "sha256": "3ecde6d2cd710f2a31e544a0dac726dfd735152f482ca0607b15eecb9b05a103"
+        }
+      ]
+    },
+    {
+      "local_path": "projects/visual-art-lab/heartglow",
+      "source_url": "https://github.com/iremcnar/loveYou",
+      "branch": "main",
+      "commit": "ee7be9ecf785be6556fa75a4a58583a6171f6180",
+      "tree": "813a523f8b74a289857305e8411c2db2eee66116",
+      "archive_url": "https://codeload.github.com/iremcnar/loveYou/zip/ee7be9ecf785be6556fa75a4a58583a6171f6180",
+      "archive_sha256": "8b39ab0e808871ac03957f917fb17fa5bbcb2ae2fe90ec3a2436ebb34c49920a",
+      "files": [
+        {
+          "path": ".gitattributes",
+          "size_bytes": 66,
+          "sha256": "1a1dbe176bc233b499d35a57db7513f2941c99ab9759f177830c9149be99005b"
+        },
+        {
+          "path": "README.md",
+          "size_bytes": 1048,
+          "sha256": "28aaf6f9d9604eb6b878f1f2364ef16e716b6aeb22818fd67943d6341d210e2a"
+        },
+        {
+          "path": "love.py",
+          "size_bytes": 6564,
+          "sha256": "dfe5b537cad4de87eef133b41d74d38bbffc3b902b00ef38b872c804445e4c31"
+        }
+      ]
+    },
+    {
+      "local_path": "projects/visual-art-lab/spiral-ink",
+      "source_url": "https://github.com/iremcnar/mustafaKemalATATURK",
+      "branch": "main",
+      "commit": "1c0360dfc5f9085574062a786e626f89969d9edd",
+      "tree": "273780639c66278d200cf07b4633c95a85d5fb3e",
+      "archive_url": "https://codeload.github.com/iremcnar/mustafaKemalATATURK/zip/1c0360dfc5f9085574062a786e626f89969d9edd",
+      "archive_sha256": "a983d0e5bbcae78bd9499bf49c71b5b3dfbc201fa2d8ef45e6ed8783bc4506f7",
+      "files": [
+        {
+          "path": ".gitattributes",
+          "size_bytes": 66,
+          "sha256": "1a1dbe176bc233b499d35a57db7513f2941c99ab9759f177830c9149be99005b"
+        },
+        {
+          "path": "ATATURK.py",
+          "size_bytes": 11463,
+          "sha256": "23d45efdc7ba3cbc20f4e316d849c6b2615bdb055fac94c6ae07069d243005e1"
+        },
+        {
+          "path": "README.md",
+          "size_bytes": 1188,
+          "sha256": "c99683eb677d4866aa8408f3664e57b5df1ab7085461c00bfe0b72540169fa9d"
+        },
+        {
+          "path": "Türkiye.png",
+          "size_bytes": 47456,
+          "sha256": "2e965ad21bb1e6cd8b39cb4220c22f3b1fe784870fc8667c8c3ad3c27d2b6864"
+        },
+        {
+          "path": "Türkiye.py",
+          "size_bytes": 10593,
+          "sha256": "33bebbf8838195cd8bd6aaea0ea084c12c2dee9a4589b5d74bb6e825aaf3864f"
+        },
+        {
+          "path": "ataturk.png",
+          "size_bytes": 22560,
+          "sha256": "760c9aab49a2fc93374c239b6a81b634665a2bcbb19fa8a1c193b57680425c2e"
+        }
+      ]
+    }
+  ]
+}

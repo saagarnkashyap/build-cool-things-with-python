@@ -1,0 +1,18 @@
+{
+  "protected_assets": 42,
+  "asset_failures": [],
+  "project_source_files": 43,
+  "unchanged_project_source_files": 41,
+  "changed_project_source_files": [
+    "projects/08-qr-code-studio/qr_studio.py",
+    "projects/09-expense-tracker-dashboard/gui.py"
+  ],
+  "unchanged_visual_python_sources": 6,
+  "license_file_unchanged": "research/reference-repositories/python-starter-lab/LICENSE",
+  "license_audit_only_changed_paths": true,
+  "source_snapshot_metadata_preserved": true,
+  "python_312_grammar_files": 49,
+  "active_text_files_checked": 96,
+  "stale_path_references": [],
+  "all_six_moves_verified": true
+}

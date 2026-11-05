@@ -1,0 +1,13 @@
+test_finished_match_blocks_further_rounds (test_rps.DesktopMatchTests.test_finished_match_blocks_further_rounds) ... ok
+test_invalid_choice_does_not_add_round (test_rps.DesktopMatchTests.test_invalid_choice_does_not_add_round) ... ok
+test_invalid_round_counts (test_rps.DesktopMatchTests.test_invalid_round_counts) ... ok
+test_score_tracks_wins_losses_and_draws (test_rps.DesktopMatchTests.test_score_tracks_wins_losses_and_draws) ... ok
+test_all_nine_matchups (test_rps.RockPaperScissorsTests.test_all_nine_matchups) ... ok
+test_invalid_choices (test_rps.RockPaperScissorsTests.test_invalid_choices) ... ok
+test_invalid_computer_choice (test_rps.RockPaperScissorsTests.test_invalid_computer_choice) ... ok
+test_shortcuts_and_whitespace (test_rps.RockPaperScissorsTests.test_shortcuts_and_whitespace) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.001s
+
+OK

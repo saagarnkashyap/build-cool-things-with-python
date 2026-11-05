@@ -1,0 +1,11 @@
+test_bfs_shortest_and_dfs_counterexample (test_maze.MazeTests.test_bfs_shortest_and_dfs_counterexample) ... ok
+test_generated_mazes_are_reproducible_and_solvable (test_maze.MazeTests.test_generated_mazes_are_reproducible_and_solvable) ... ok
+test_invalid_generation_sizes (test_maze.MazeTests.test_invalid_generation_sizes) ... ok
+test_invalid_mazes (test_maze.MazeTests.test_invalid_mazes) ... ok
+test_no_wraparound_at_edges (test_maze.MazeTests.test_no_wraparound_at_edges) ... ok
+test_unreachable_goal (test_maze.MazeTests.test_unreachable_goal) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.003s
+
+OK

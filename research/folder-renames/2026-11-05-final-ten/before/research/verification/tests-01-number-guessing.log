@@ -1,0 +1,14 @@
+test_hints_and_win_end_the_round (test_guessing.DesktopRoundTests.test_hints_and_win_end_the_round) ... ok
+test_invalid_input_does_not_use_attempts (test_guessing.DesktopRoundTests.test_invalid_input_does_not_use_attempts) ... ok
+test_invalid_round_settings (test_guessing.DesktopRoundTests.test_invalid_round_settings) ... ok
+test_loss_reveals_secret (test_guessing.DesktopRoundTests.test_loss_reveals_secret) ... ok
+test_all_hints (test_guessing.GuessingTests.test_all_hints) ... ok
+test_bad_entries_do_not_consume_attempts (test_guessing.GuessingTests.test_bad_entries_do_not_consume_attempts) ... ok
+test_invalid_setup (test_guessing.GuessingTests.test_invalid_setup) ... ok
+test_loss_reveals_number (test_guessing.GuessingTests.test_loss_reveals_number) ... ok
+test_quit_and_eof (test_guessing.GuessingTests.test_quit_and_eof) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.001s
+
+OK

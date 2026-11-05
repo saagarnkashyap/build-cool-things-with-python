@@ -1,0 +1,15 @@
+$ python main.py --low 1 --high 20 --attempts 4 --seed 7
+
+Input supplied (one line at a time):
+oops
+99
+10
+11
+
+Actual stdout:
+Guess a number from 1 to 20. You have 4 attempts. Enter q to quit.
+Guess 1/4: Please enter a whole number or q.
+Guess 1/4: Stay between 1 and 20; that did not use an attempt.
+Guess 1/4: Too low.
+Guess 2/4: Correct!
+Solved in 2 attempt(s).

@@ -1,0 +1,49 @@
+{
+  "python": "3.14.7",
+  "projects": [
+    {
+      "project": "01-number-guessing",
+      "tests": 9,
+      "status": "passed",
+      "exit_code": 0
+    },
+    {
+      "project": "02-rock-paper-scissors",
+      "tests": 8,
+      "status": "passed",
+      "exit_code": 0
+    },
+    {
+      "project": "03-password-generator",
+      "tests": 8,
+      "status": "passed",
+      "exit_code": 0
+    },
+    {
+      "project": "07-smart-file-organizer",
+      "tests": 9,
+      "status": "passed",
+      "exit_code": 0
+    },
+    {
+      "project": "09-qr-code-studio",
+      "tests": 6,
+      "status": "passed",
+      "exit_code": 0
+    },
+    {
+      "project": "11-expense-tracker",
+      "tests": 13,
+      "status": "passed",
+      "exit_code": 0
+    },
+    {
+      "project": "16-maze-solving-visualizer",
+      "tests": 6,
+      "status": "passed",
+      "exit_code": 0
+    }
+  ],
+  "total_tests": 59,
+  "failed_projects": 0
+}

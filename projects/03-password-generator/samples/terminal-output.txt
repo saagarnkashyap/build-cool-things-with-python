@@ -1,0 +1,7 @@
+$ python main.py --length 16 --count 2
+
+PUBLIC DEMONSTRATION PASSWORDS: never use these as credentials.
+
+Actual stdout:
+r)!k4is6)toWy_Ca
+vfC1!_+7m+A*&vp5

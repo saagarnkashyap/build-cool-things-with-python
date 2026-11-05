@@ -1,0 +1,20 @@
+[
+  "pyproject.toml",
+  "README.md",
+  "research/license-audit.md",
+  "research/local-adaptations.json",
+  "research/source-snapshots.json",
+  "scripts/capture_project_outputs.py",
+  "scripts/check_tool_guis.py",
+  "scripts/check_visual_art_lab.py",
+  "research/runtime-checks/README.md",
+  "research/verification/README.md",
+  "research/verification/test-results.json",
+  "research/verification/visual-art-before.json",
+  "projects/08-qr-code-studio/README.md",
+  "projects/09-expense-tracker-dashboard/README.md",
+  "projects/10-maze-solving-visualizer/README.md",
+  "projects/visual-art-lab/README.md",
+  "projects/visual-art-lab/06-spiral-ink/README.md",
+  ".github/workflows/tests.yml"
+]

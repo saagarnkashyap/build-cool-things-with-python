@@ -1,0 +1,5 @@
+# Optional tools for genuine GUI captures and independent QR decoding.
+# Not required to run the beginner projects or the organizer/maze CLI.
+Pillow>=10.1,<13
+playwright>=1.50,<2
+zxing-cpp>=2.3,<4

@@ -1,0 +1,13 @@
+date,category,description,amount
+2026-01-05,Groceries,Synthetic grocery basket A,42.50
+2026-01-09,Transport,Synthetic bus pass A,18.00
+2026-01-15,Learning,Synthetic workbook A,24.90
+2026-02-03,Groceries,Synthetic grocery basket B,38.25
+2026-02-12,Leisure,Synthetic museum visit,12.00
+2026-02-18,Transport,Synthetic bus pass B,18.00
+2026-03-04,Groceries,Synthetic grocery basket C,46.10
+2026-03-10,Learning,Synthetic course materials,29.00
+2026-03-19,Leisure,Synthetic board game rental,8.50
+2026-04-02,Transport,Synthetic bus pass C,18.00
+2026-04-08,Groceries,Synthetic grocery basket D,40.75
+2026-04-15,Learning,Synthetic workbook B,19.95

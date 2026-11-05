@@ -1,0 +1,5 @@
+Saved: <temporary-folder>\python.png
+
+Saved: <temporary-folder>\python.svg
+
+Independent PNG decode: https://www.python.org/

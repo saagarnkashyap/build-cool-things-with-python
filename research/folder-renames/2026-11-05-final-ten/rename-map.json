@@ -1,0 +1,8 @@
+{
+  "projects/09-qr-code-studio": "projects/08-qr-code-studio",
+  "projects/11-expense-tracker": "projects/09-expense-tracker-dashboard",
+  "projects/16-maze-solving-visualizer": "projects/10-maze-solving-visualizer",
+  "projects/visual-art-lab/bloomcraft": "projects/visual-art-lab/04-bloomcraft",
+  "projects/visual-art-lab/heartglow": "projects/visual-art-lab/05-heartglow",
+  "projects/visual-art-lab/spiral-ink": "projects/visual-art-lab/06-spiral-ink"
+}

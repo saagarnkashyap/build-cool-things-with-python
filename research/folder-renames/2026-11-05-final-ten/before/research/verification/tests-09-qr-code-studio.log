@@ -1,0 +1,11 @@
+test_bad_settings (test_qr_studio.QRTests.test_bad_settings) ... ok
+test_bad_urls (test_qr_studio.QRTests.test_bad_urls) ... ok
+test_both_exports_and_no_overwrite (test_qr_studio.QRTests.test_both_exports_and_no_overwrite) ... ok
+test_invalid_extension (test_qr_studio.QRTests.test_invalid_extension) ... ok
+test_quiet_zone_and_square_matrix (test_qr_studio.QRTests.test_quiet_zone_and_square_matrix) ... ok
+test_unicode_text (test_qr_studio.QRTests.test_unicode_text) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.041s
+
+OK

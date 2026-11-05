@@ -1,0 +1,502 @@
+[
+  {
+    "path": "pyproject.toml",
+    "category": "configuration",
+    "matches": [
+      {
+        "line": 7,
+        "text": "  \"projects/09-qr-code-studio/tests\","
+      },
+      {
+        "line": 8,
+        "text": "  \"projects/11-expense-tracker/tests\","
+      },
+      {
+        "line": 9,
+        "text": "  \"projects/16-maze-solving-visualizer/tests\","
+      }
+    ]
+  },
+  {
+    "path": "README.md",
+    "category": "README",
+    "matches": [
+      {
+        "line": 19,
+        "text": "| 3 - Useful tools | [09 QR Code Studio](projects/09-qr-code-studio/README.md) | Input validation, libraries, raster and vector exports |"
+      },
+      {
+        "line": 20,
+        "text": "| 4 - Applications | [11 Expense Tracker Dashboard](projects/11-expense-tracker/README.md) | CSV validation, Pandas, filters, charts, Streamlit |"
+      },
+      {
+        "line": 21,
+        "text": "| 4 - Applications | [16 Maze-Solving Visualizer](projects/16-maze-solving-visualizer/README.md) | Graphs, independent BFS/DFS, animation, shortest paths |"
+      },
+      {
+        "line": 34,
+        "text": "python -m pip install -r projects/09-qr-code-studio/requirements.txt -r projects/11-expense-tracker/requirements.txt"
+      },
+      {
+        "line": 52,
+        "text": "| [QR Code Studio](projects/09-qr-code-studio/README.md) | `projects/09-qr-code-studio/desktop.pyw` | Enter text, choose presets, generate, save |"
+      },
+      {
+        "line": 53,
+        "text": "| [Expense Tracker](projects/11-expense-tracker/README.md) | `projects/11-expense-tracker/desktop.pyw` | Browser opens automatically; choose CSV, filter, download |"
+      },
+      {
+        "line": 69,
+        "text": "python projects/09-qr-code-studio/main.py --gui"
+      },
+      {
+        "line": 70,
+        "text": "python -m streamlit run projects/11-expense-tracker/app.py --server.address 127.0.0.1"
+      },
+      {
+        "line": 71,
+        "text": "python projects/16-maze-solving-visualizer/main.py --predefined"
+      }
+    ]
+  },
+  {
+    "path": "research/license-audit.md",
+    "category": "documentation/records",
+    "matches": [
+      {
+        "line": 39,
+        "text": "| `spiral-ink/ataturk.png` | Removed by requester | Historical import only; no longer used |"
+      },
+      {
+        "line": 40,
+        "text": "| `spiral-ink/Türkiye.png` | Removed by requester | Historical import only; no longer used |"
+      }
+    ]
+  },
+  {
+    "path": "research/local-adaptations.json",
+    "category": "documentation/records",
+    "matches": [
+      {
+        "line": 7,
+        "text": "      \"path\": \"projects/visual-art-lab/spiral-ink/README.md\","
+      },
+      {
+        "line": 13,
+        "text": "    \"projects/visual-art-lab/spiral-ink/ataturk.png\","
+      },
+      {
+        "line": 14,
+        "text": "    \"projects/visual-art-lab/spiral-ink/Türkiye.png\","
+      },
+      {
+        "line": 15,
+        "text": "    \"projects/visual-art-lab/spiral-ink/ATATURK.py\","
+      },
+      {
+        "line": 16,
+        "text": "    \"projects/visual-art-lab/spiral-ink/Türkiye.py\","
+      },
+      {
+        "line": 23,
+        "text": "      \"from\": \"projects/visual-art-lab/spiral-ink/ATATURK.py\","
+      },
+      {
+        "line": 24,
+        "text": "      \"to\": \"projects/visual-art-lab/spiral-ink/pic1.py\""
+      },
+      {
+        "line": 27,
+        "text": "      \"from\": \"projects/visual-art-lab/spiral-ink/Türkiye.py\","
+      },
+      {
+        "line": 28,
+        "text": "      \"to\": \"projects/visual-art-lab/spiral-ink/pic2.py\""
+      },
+      {
+        "line": 33,
+        "text": "      \"path\": \"projects/visual-art-lab/spiral-ink/spiral_art.py\","
+      },
+      {
+        "line": 38,
+        "text": "      \"path\": \"projects/visual-art-lab/spiral-ink/tests/test_spiral_art.py\","
+      },
+      {
+        "line": 43,
+        "text": "      \"path\": \"projects/visual-art-lab/spiral-ink/pic1.py\","
+      },
+      {
+        "line": 48,
+        "text": "      \"path\": \"projects/visual-art-lab/spiral-ink/pic2.py\","
+      }
+    ]
+  },
+  {
+    "path": "research/source-snapshots.json",
+    "category": "documentation/records",
+    "matches": [
+      {
+        "line": 7,
+        "text": "      \"local_path\": \"projects/visual-art-lab/bloomcraft\","
+      },
+      {
+        "line": 33,
+        "text": "      \"local_path\": \"projects/visual-art-lab/heartglow\","
+      },
+      {
+        "line": 59,
+        "text": "      \"local_path\": \"projects/visual-art-lab/spiral-ink\","
+      }
+    ]
+  },
+  {
+    "path": "scripts/capture_project_outputs.py",
+    "category": "scripts",
+    "matches": [
+      {
+        "line": 104,
+        "text": "    project = PROJECTS / \"09-qr-code-studio\""
+      },
+      {
+        "line": 137,
+        "text": "    project = PROJECTS / \"16-maze-solving-visualizer\""
+      },
+      {
+        "line": 175,
+        "text": "    project = PROJECTS / \"11-expense-tracker\""
+      },
+      {
+        "line": 213,
+        "text": "                    svg = (PROJECTS / \"09-qr-code-studio/samples/python.svg\").read_text(encoding=\"utf-8\")"
+      }
+    ]
+  },
+  {
+    "path": "scripts/check_tool_guis.py",
+    "category": "scripts",
+    "matches": [
+      {
+        "line": 89,
+        "text": "    project = ROOT / \"projects/09-qr-code-studio\""
+      },
+      {
+        "line": 138,
+        "text": "    project = ROOT / \"projects/11-expense-tracker\""
+      }
+    ]
+  },
+  {
+    "path": "scripts/check_visual_art_lab.py",
+    "category": "scripts",
+    "matches": [
+      {
+        "line": 26,
+        "text": "    \"bloomcraft\": ROOT / \"projects/visual-art-lab/bloomcraft/flow.py\","
+      },
+      {
+        "line": 27,
+        "text": "    \"heartglow\": ROOT / \"projects/visual-art-lab/heartglow/love.py\","
+      },
+      {
+        "line": 28,
+        "text": "    \"rockstar\": ROOT / \"projects/visual-art-lab/spiral-ink/pic1.py\","
+      },
+      {
+        "line": 29,
+        "text": "    \"lilies\": ROOT / \"projects/visual-art-lab/spiral-ink/pic2.py\","
+      },
+      {
+        "line": 30,
+        "text": "    \"water-lily\": ROOT / \"projects/visual-art-lab/spiral-ink/spiral_art.py\","
+      },
+      {
+        "line": 63,
+        "text": "                if name == \"heartglow\":"
+      },
+      {
+        "line": 68,
+        "text": "                elif name == \"bloomcraft\":"
+      },
+      {
+        "line": 95,
+        "text": "                    if name == \"heartglow\":"
+      },
+      {
+        "line": 96,
+        "text": "                        namespace[\"cv\"].postscript(file=str(OUTPUT / \"heartglow-canvas.ps\"), colormode=\"color\")"
+      },
+      {
+        "line": 97,
+        "text": "                    if name == \"bloomcraft\":"
+      },
+      {
+        "line": 126,
+        "text": "    if name == \"heartglow\":"
+      },
+      {
+        "line": 174,
+        "text": "        \"bloomcraft-png\", \"rockstar-png\", \"lilies-png\", \"water-lily-png\", \"bloomcraft-gif\","
+      },
+      {
+        "line": 215,
+        "text": "        if args.spiral_only and name.startswith((\"bloomcraft\", \"heartglow\")):"
+      },
+      {
+        "line": 237,
+        "text": "    run(\"bloomcraft-png\", [python, str(SCRIPTS[\"bloomcraft\"]), \"--png\"], images=(\"flower*.png\", 6))"
+      },
+      {
+        "line": 241,
+        "text": "    run(\"bloomcraft-gif\", [python, str(SCRIPTS[\"bloomcraft\"]), \"--gif\"], timeout=600, images=(\"flower.gif\", 1, True))"
+      }
+    ]
+  },
+  {
+    "path": "research/runtime-checks/README.md",
+    "category": "README",
+    "matches": [
+      {
+        "line": 41,
+        "text": "python -m unittest discover -s projects/visual-art-lab/spiral-ink/tests -v"
+      }
+    ]
+  },
+  {
+    "path": "research/verification/README.md",
+    "category": "README",
+    "matches": [
+      {
+        "line": 20,
+        "text": "| [09-qr-code-studio](../../projects/09-qr-code-studio/README.md) | 6 | Passed | [Log](tests-09-qr-code-studio.log) |"
+      },
+      {
+        "line": 21,
+        "text": "| [11-expense-tracker](../../projects/11-expense-tracker/README.md) | 13 | Passed | [Log](tests-11-expense-tracker.log) |"
+      },
+      {
+        "line": 22,
+        "text": "| [16-maze-solving-visualizer](../../projects/16-maze-solving-visualizer/README.md) | 6 | Passed | [Log](tests-16-maze-solving-visualizer.log) |"
+      },
+      {
+        "line": 51,
+        "text": "- [QR Studio](../../projects/09-qr-code-studio/screenshots/app.png)"
+      },
+      {
+        "line": 52,
+        "text": "- [Expense launcher](../../projects/11-expense-tracker/screenshots/launcher.png)"
+      },
+      {
+        "line": 53,
+        "text": "- [Expense dashboard](../../projects/11-expense-tracker/screenshots/app.png)"
+      },
+      {
+        "line": 114,
+        "text": "- [QR Studio: working preview window](../../projects/09-qr-code-studio/screenshots/app.png)"
+      },
+      {
+        "line": 115,
+        "text": "- [Expense dashboard: real browser capture](../../projects/11-expense-tracker/screenshots/app.png)"
+      },
+      {
+        "line": 116,
+        "text": "- [Maze: predefined comparison](../../projects/16-maze-solving-visualizer/screenshots/app.png)"
+      },
+      {
+        "line": 117,
+        "text": "- [Maze: generated maze comparison](../../projects/16-maze-solving-visualizer/screenshots/generated.png)"
+      }
+    ]
+  },
+  {
+    "path": "research/verification/test-results.json",
+    "category": "documentation/records",
+    "matches": [
+      {
+        "line": 29,
+        "text": "      \"project\": \"09-qr-code-studio\","
+      },
+      {
+        "line": 35,
+        "text": "      \"project\": \"11-expense-tracker\","
+      },
+      {
+        "line": 41,
+        "text": "      \"project\": \"16-maze-solving-visualizer\","
+      }
+    ]
+  },
+  {
+    "path": "research/verification/visual-art-before.json",
+    "category": "documentation/records",
+    "matches": [
+      {
+        "line": 3,
+        "text": "  \"projects/visual-art-lab/bloomcraft/.gitattributes\": \"1a1dbe176bc233b499d35a57db7513f2941c99ab9759f177830c9149be99005b\","
+      },
+      {
+        "line": 4,
+        "text": "  \"projects/visual-art-lab/bloomcraft/flow.py\": \"3ecde6d2cd710f2a31e544a0dac726dfd735152f482ca0607b15eecb9b05a103\","
+      },
+      {
+        "line": 5,
+        "text": "  \"projects/visual-art-lab/bloomcraft/README.md\": \"c36912e2a485e4046dd5e903594ab7aede74a595927546a0f8d1b6b37acf0d96\","
+      },
+      {
+        "line": 6,
+        "text": "  \"projects/visual-art-lab/heartglow/.gitattributes\": \"1a1dbe176bc233b499d35a57db7513f2941c99ab9759f177830c9149be99005b\","
+      },
+      {
+        "line": 7,
+        "text": "  \"projects/visual-art-lab/heartglow/love.py\": \"dfe5b537cad4de87eef133b41d74d38bbffc3b902b00ef38b872c804445e4c31\","
+      },
+      {
+        "line": 8,
+        "text": "  \"projects/visual-art-lab/heartglow/README.md\": \"28aaf6f9d9604eb6b878f1f2364ef16e716b6aeb22818fd67943d6341d210e2a\","
+      },
+      {
+        "line": 9,
+        "text": "  \"projects/visual-art-lab/spiral-ink/.gitattributes\": \"1a1dbe176bc233b499d35a57db7513f2941c99ab9759f177830c9149be99005b\","
+      },
+      {
+        "line": 10,
+        "text": "  \"projects/visual-art-lab/spiral-ink/pic1.py\": \"a5e461aa66191d9facbb5aad603653d83403f34657e1a373875d6dce036ccc16\","
+      },
+      {
+        "line": 11,
+        "text": "  \"projects/visual-art-lab/spiral-ink/pic2.py\": \"6b610651e523f37d4b53d0c1655e3ef3a20707e5f28959e111d1ba3c34765969\","
+      },
+      {
+        "line": 12,
+        "text": "  \"projects/visual-art-lab/spiral-ink/README.md\": \"748fb2d2051e33c75553fa2e7850dde2e1be492e347c4ae45dd601e0e3ce2845\","
+      },
+      {
+        "line": 13,
+        "text": "  \"projects/visual-art-lab/spiral-ink/spiral_art.py\": \"e7b434204c2390a4df6edb135c3aa5fe70e72bae5b64cac2354f8da33f6e35c5\","
+      },
+      {
+        "line": 14,
+        "text": "  \"projects/visual-art-lab/spiral-ink/tests/test_spiral_art.py\": \"a007e8b28efcac855ebbc83681610c86a515445aa3e2449784418c162ba38c73\","
+      }
+    ]
+  },
+  {
+    "path": "projects/09-qr-code-studio/README.md",
+    "category": "README",
+    "matches": [
+      {
+        "line": 16,
+        "text": "first run `cd projects/09-qr-code-studio`. Activate your Python environment first."
+      }
+    ]
+  },
+  {
+    "path": "projects/11-expense-tracker/README.md",
+    "category": "README",
+    "matches": [
+      {
+        "line": 16,
+        "text": "first run `cd projects/11-expense-tracker`. Activate your Python environment first."
+      }
+    ]
+  },
+  {
+    "path": "projects/16-maze-solving-visualizer/README.md",
+    "category": "README",
+    "matches": [
+      {
+        "line": 16,
+        "text": "first run `cd projects/16-maze-solving-visualizer`. Activate your Python environment first."
+      }
+    ]
+  },
+  {
+    "path": "projects/visual-art-lab/README.md",
+    "category": "README",
+    "matches": [
+      {
+        "line": 26,
+        "text": "| Bloomcraft | `python projects/visual-art-lab/bloomcraft/flow.py` |"
+      },
+      {
+        "line": 27,
+        "text": "| Heartglow | `python projects/visual-art-lab/heartglow/love.py` |"
+      },
+      {
+        "line": 28,
+        "text": "| Spiral Ink: water lily | `python projects/visual-art-lab/spiral-ink/spiral_art.py --preset water-lily` |"
+      },
+      {
+        "line": 29,
+        "text": "| Spiral Ink: pink lilies | `python projects/visual-art-lab/spiral-ink/pic2.py` |"
+      },
+      {
+        "line": 30,
+        "text": "| Spiral Ink: Rockstar | `python projects/visual-art-lab/spiral-ink/pic1.py` |"
+      },
+      {
+        "line": 35,
+        "text": "The [Spiral Ink guide](spiral-ink/README.md) explains the three photos, custom"
+      },
+      {
+        "line": 44,
+        "text": "python -m unittest discover -s projects/visual-art-lab/spiral-ink/tests -v"
+      },
+      {
+        "line": 52,
+        "text": "Use `--only heartglow-gui` or another listed case to rerun a single check."
+      }
+    ]
+  },
+  {
+    "path": "projects/visual-art-lab/spiral-ink/README.md",
+    "category": "README",
+    "matches": [
+      {
+        "line": 23,
+        "text": "python projects/visual-art-lab/spiral-ink/pic2.py"
+      },
+      {
+        "line": 25,
+        "text": "python projects/visual-art-lab/spiral-ink/pic1.py"
+      },
+      {
+        "line": 27,
+        "text": "python projects/visual-art-lab/spiral-ink/spiral_art.py --preset water-lily"
+      },
+      {
+        "line": 38,
+        "text": "python projects/visual-art-lab/spiral-ink/pic2.py --png"
+      },
+      {
+        "line": 39,
+        "text": "python projects/visual-art-lab/spiral-ink/pic1.py --png --width 1400"
+      },
+      {
+        "line": 40,
+        "text": "python projects/visual-art-lab/spiral-ink/spiral_art.py --preset water-lily --text \"REFLECTIONS  \""
+      },
+      {
+        "line": 41,
+        "text": "python projects/visual-art-lab/spiral-ink/spiral_art.py \"path/to/my photo.jpg\" --png --output \"my-art.png\""
+      },
+      {
+        "line": 44,
+        "text": "Default exports go into `projects/visual-art-lab/spiral-ink/outputs/` as"
+      },
+      {
+        "line": 58,
+        "text": "python -m unittest discover -s projects/visual-art-lab/spiral-ink/tests -v"
+      }
+    ]
+  },
+  {
+    "path": ".github/workflows/tests.yml",
+    "category": "configuration",
+    "matches": [
+      {
+        "line": 14,
+        "text": "      - run: python -m pip install -r projects/09-qr-code-studio/requirements.txt -r projects/11-expense-tracker/requirements.txt"
+      }
+    ]
+  }
+]

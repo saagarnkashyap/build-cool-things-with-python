@@ -1,0 +1,32 @@
+{
+  "method": "Git check-ignore --no-index --stdin -z in a disposable scratch repository; root repository was not initialized",
+  "workspace_git_metadata": false,
+  "tracked_generated_status": "Unknown: no workspace Git index exists",
+  "ignored_probes": [
+    ".venv/Lib/site-packages/example.py",
+    "projects/08-qr-code-studio/__pycache__/qr_studio.pyc",
+    "projects/08-qr-code-studio/outputs/test.png",
+    "research/runtime-checks/flower.gif",
+    "research/runtime-checks/results.json",
+    "research/verification/tests-08-qr-code-studio.log",
+    "research/verification/tool-gui-checks.json",
+    "research/verification/test-results.json",
+    "research/verification/environment.json",
+    "research/verification/demo-fixtures/run/inbox/file.txt",
+    "research/folder-renames/2026-11-05-final-ten/runtime-outputs/visual/flower.gif"
+  ],
+  "eligible_probes": [
+    "README.md",
+    "folder-structure.txt",
+    "Pink lilies.jpg",
+    "Rockstar.jpg",
+    "900508888014745363.jpg",
+    "projects/08-qr-code-studio/samples/python.png",
+    "projects/09-expense-tracker-dashboard/screenshots/app.png",
+    "projects/visual-art-lab/04-bloomcraft/flow.py",
+    "research/source-snapshots.json",
+    "research/local-adaptations.json",
+    "research/license-audit.md"
+  ],
+  "automatic_deletions": 0
+}

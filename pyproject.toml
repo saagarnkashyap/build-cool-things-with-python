@@ -1,0 +1,16 @@
+[tool.pytest.ini_options]
+testpaths = [
+  "projects/01-number-guessing/tests",
+  "projects/02-rock-paper-scissors/tests",
+  "projects/03-password-generator/tests",
+  "projects/visual-art-lab/06-spiral-ink/tests",
+  "projects/07-smart-file-organizer/tests",
+  "projects/08-qr-code-studio/tests",
+  "projects/09-expense-tracker-dashboard/tests",
+  "projects/10-maze-solving-visualizer/tests",
+]
+addopts = "--import-mode=importlib"
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100

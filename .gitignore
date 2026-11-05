@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.coverage
+research/reference-repositories/
+research/verification/browser-profile/
+**/outputs/
+.ruff_cache/
+.coverage.*
+htmlcov/
+**/.organizer/
+
+# Transient local verification output; keep all files on disk.
+/research/runtime-checks/*
+!/research/runtime-checks/README.md
+/research/verification/*.log
+/research/verification/*-checks.json
+/research/verification/test-results.json
+/research/verification/environment.json
+/research/verification/demo-fixtures/
+/research/folder-renames/*/runtime-outputs/
+
+# Curated project samples, screenshots, source artwork, license records,
+# preservation manifests, and folder-structure.txt remain eligible for Git.

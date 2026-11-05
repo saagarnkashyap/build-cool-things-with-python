@@ -1,0 +1,86 @@
+{
+  "recorded_on": "2026-11-05",
+  "reason": "Requester replaced the previous photos with pink lilies, a water lily, and Rockstar; launchers were renamed to pic1.py and pic2.py.",
+  "upstream_manifest": "research/source-snapshots.json",
+  "modified": [
+    {
+      "path": "projects/visual-art-lab/spiral-ink/README.md",
+      "size_bytes": 3500,
+      "sha256": "748fb2d2051e33c75553fa2e7850dde2e1be492e347c4ae45dd601e0e3ce2845"
+    }
+  ],
+  "removed": [
+    "projects/visual-art-lab/spiral-ink/ataturk.png",
+    "projects/visual-art-lab/spiral-ink/Türkiye.png",
+    "projects/visual-art-lab/spiral-ink/ATATURK.py",
+    "projects/visual-art-lab/spiral-ink/Türkiye.py",
+    "586945763985766925.jpg",
+    "joji.jpg",
+    "ryomen sukuna aesthetic — #jjk #anime….jpg"
+  ],
+  "renamed": [
+    {
+      "from": "projects/visual-art-lab/spiral-ink/ATATURK.py",
+      "to": "projects/visual-art-lab/spiral-ink/pic1.py"
+    },
+    {
+      "from": "projects/visual-art-lab/spiral-ink/Türkiye.py",
+      "to": "projects/visual-art-lab/spiral-ink/pic2.py"
+    }
+  ],
+  "added": [
+    {
+      "path": "projects/visual-art-lab/spiral-ink/spiral_art.py",
+      "size_bytes": 12389,
+      "sha256": "e7b434204c2390a4df6edb135c3aa5fe70e72bae5b64cac2354f8da33f6e35c5"
+    },
+    {
+      "path": "projects/visual-art-lab/spiral-ink/tests/test_spiral_art.py",
+      "size_bytes": 3604,
+      "sha256": "a007e8b28efcac855ebbc83681610c86a515445aa3e2449784418c162ba38c73"
+    },
+    {
+      "path": "projects/visual-art-lab/spiral-ink/pic1.py",
+      "size_bytes": 160,
+      "sha256": "a5e461aa66191d9facbb5aad603653d83403f34657e1a373875d6dce036ccc16"
+    },
+    {
+      "path": "projects/visual-art-lab/spiral-ink/pic2.py",
+      "size_bytes": 161,
+      "sha256": "6b610651e523f37d4b53d0c1655e3ef3a20707e5f28959e111d1ba3c34765969"
+    },
+    {
+      "path": "900508888014745363.jpg",
+      "size_bytes": 91141,
+      "sha256": "24f70a653684c13b61f2ce9476dde01b4c8296f6a33df227c2ccedba4f3860ec"
+    },
+    {
+      "path": "Pink lilies.jpg",
+      "size_bytes": 113160,
+      "sha256": "f8185398173c9770649ea5982b94fcce82143e39ba5397bd19339e25558a7323"
+    },
+    {
+      "path": "Rockstar.jpg",
+      "size_bytes": 140772,
+      "sha256": "e52046995dc5515dd3275528bd0a8c85dce0979954493c4d80b816a6a47fdec3"
+    }
+  ],
+  "superseded_assets": [
+    {
+      "path": "586945763985766925.jpg",
+      "size_bytes": 185722,
+      "sha256": "7333b9579f0986062c81710ac76609f349f14c0514063af92db49c7f726ea7ae"
+    },
+    {
+      "path": "joji.jpg",
+      "size_bytes": 44674,
+      "sha256": "bf9985320af4821d5c963f4d6f43ede9d02516ef5919481372578d58371fae99"
+    },
+    {
+      "path": "ryomen sukuna aesthetic — #jjk #anime….jpg",
+      "size_bytes": 224767,
+      "sha256": "4bbb261e5078dfe700f5de1eaad6729ad92a851eaa2b9fe618dfba1c62cb273b"
+    }
+  ],
+  "asset_origin": "Three requester-supplied JPEGs, kept unchanged in the repository root. See research/license-audit.md for publication permissions."
+}

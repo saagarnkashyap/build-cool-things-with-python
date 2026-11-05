@@ -1,0 +1,156 @@
+Source-focused repository map; environments, caches, and runtime diagnostics omitted.
+Regenerate: python scripts/show_project_structure.py --write folder-structure.txt
+
+build-cool-things-with-python/
+|-- .github/
+|   `-- workflows/
+|       `-- tests.yml
+|-- projects/
+|   |-- 01-number-guessing/
+|   |   |-- samples/
+|   |   |   `-- terminal-output.txt
+|   |   |-- screenshots/
+|   |   |   |-- app.png
+|   |   |   `-- README.md
+|   |   |-- tests/
+|   |   |   `-- test_guessing.py
+|   |   |-- desktop.pyw
+|   |   |-- exercises.md
+|   |   |-- guessing.py
+|   |   |-- gui.py
+|   |   |-- main.py
+|   |   `-- README.md
+|   |-- 02-rock-paper-scissors/
+|   |   |-- samples/
+|   |   |   `-- terminal-output.txt
+|   |   |-- screenshots/
+|   |   |   |-- app.png
+|   |   |   `-- README.md
+|   |   |-- tests/
+|   |   |   `-- test_rps.py
+|   |   |-- desktop.pyw
+|   |   |-- exercises.md
+|   |   |-- gui.py
+|   |   |-- main.py
+|   |   |-- README.md
+|   |   `-- rps.py
+|   |-- 03-password-generator/
+|   |   |-- samples/
+|   |   |   `-- terminal-output.txt
+|   |   |-- screenshots/
+|   |   |   |-- app.png
+|   |   |   `-- README.md
+|   |   |-- tests/
+|   |   |   `-- test_passwords.py
+|   |   |-- desktop.pyw
+|   |   |-- exercises.md
+|   |   |-- gui.py
+|   |   |-- main.py
+|   |   |-- passwords.py
+|   |   `-- README.md
+|   |-- 07-smart-file-organizer/
+|   |   |-- samples/
+|   |   |   `-- terminal-output.txt
+|   |   |-- screenshots/
+|   |   |   |-- app.png
+|   |   |   `-- undo.png
+|   |   |-- tests/
+|   |   |   `-- test_organizer.py
+|   |   |-- app.py
+|   |   |-- desktop.pyw
+|   |   |-- exercises.md
+|   |   |-- gui.py
+|   |   |-- main.py
+|   |   |-- organizer.py
+|   |   `-- README.md
+|   |-- 08-qr-code-studio/
+|   |   |-- samples/
+|   |   |   |-- python.png
+|   |   |   |-- python.svg
+|   |   |   `-- terminal-output.txt
+|   |   |-- screenshots/
+|   |   |   `-- app.png
+|   |   |-- tests/
+|   |   |   `-- test_qr_studio.py
+|   |   |-- desktop.pyw
+|   |   |-- exercises.md
+|   |   |-- gui.py
+|   |   |-- main.py
+|   |   |-- qr_studio.py
+|   |   |-- README.md
+|   |   `-- requirements.txt
+|   |-- 09-expense-tracker-dashboard/
+|   |   |-- samples/
+|   |   |   |-- expenses.csv
+|   |   |   `-- filtered-expenses.csv
+|   |   |-- screenshots/
+|   |   |   |-- app.png
+|   |   |   `-- launcher.png
+|   |   |-- tests/
+|   |   |   |-- test_dashboard.py
+|   |   |   |-- test_expenses.py
+|   |   |   `-- test_launcher.py
+|   |   |-- app.py
+|   |   |-- desktop.pyw
+|   |   |-- exercises.md
+|   |   |-- expenses.py
+|   |   |-- gui.py
+|   |   |-- launcher.py
+|   |   |-- README.md
+|   |   `-- requirements.txt
+|   |-- 10-maze-solving-visualizer/
+|   |   |-- samples/
+|   |   |   `-- terminal-output.txt
+|   |   |-- screenshots/
+|   |   |   |-- app.png
+|   |   |   `-- generated.png
+|   |   |-- tests/
+|   |   |   `-- test_maze.py
+|   |   |-- exercises.md
+|   |   |-- main.py
+|   |   |-- maze.py
+|   |   `-- README.md
+|   `-- visual-art-lab/
+|       |-- 04-bloomcraft/
+|       |   |-- .gitattributes
+|       |   |-- flow.py
+|       |   `-- README.md
+|       |-- 05-heartglow/
+|       |   |-- .gitattributes
+|       |   |-- love.py
+|       |   `-- README.md
+|       |-- 06-spiral-ink/
+|       |   |-- tests/
+|       |   |   `-- test_spiral_art.py
+|       |   |-- .gitattributes
+|       |   |-- pic1.py
+|       |   |-- pic2.py
+|       |   |-- README.md
+|       |   `-- spiral_art.py
+|       `-- README.md
+|-- research/
+|   |-- folder-renames/ (audit records)
+|   |-- verification/
+|   |   |-- README.md
+|   |   |-- reference-repository.json
+|   |   `-- visual-art-before.json
+|   |-- license-audit.md
+|   |-- local-adaptations.json
+|   |-- new-projects-license-audit.md
+|   `-- source-snapshots.json
+|-- scripts/
+|   |-- capture_project_outputs.py
+|   |-- check_beginner_guis.py
+|   |-- check_tool_guis.py
+|   |-- check_visual_art_lab.py
+|   |-- requirements-verification.txt
+|   |-- run_project_tests.py
+|   `-- show_project_structure.py
+|-- .gitignore
+|-- 900508888014745363.jpg
+|-- AGENTS.md
+|-- folder-structure.txt
+|-- Pink lilies.jpg
+|-- pyproject.toml
+|-- README.md
+`-- Rockstar.jpg

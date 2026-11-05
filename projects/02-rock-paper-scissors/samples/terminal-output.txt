@@ -1,0 +1,13 @@
+$ python main.py --rounds 3 --seed 7
+
+Input supplied (one line at a time):
+r
+p
+s
+
+Actual stdout:
+Rock, paper, scissors! Type r/p/s, a full word, or q to quit.
+Round 1/3: You: rock | Computer: paper | LOSS
+Round 2/3: You: paper | Computer: rock | WIN
+Round 3/3: You: scissors | Computer: paper | WIN
+Final score: 2 wins, 1 losses, 0 draws.
